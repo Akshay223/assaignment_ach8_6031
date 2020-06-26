@@ -1,0 +1,14 @@
+n="refrigerator"
+m=[]
+count=0
+
+for i in n:
+    count+=1
+    m.append(i)
+    
+print("the lenght of string is : ", count)
+
+
+        
+               
+        

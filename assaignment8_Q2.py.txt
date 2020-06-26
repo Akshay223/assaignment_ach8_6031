@@ -1,0 +1,5 @@
+s = "corona is awesome, isn't it?"
+sub= "is"
+
+count = s.count(sub)
+print("The count is:", count)

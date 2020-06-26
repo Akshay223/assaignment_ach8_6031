@@ -1,0 +1,14 @@
+n = '1234f'
+c = "f"
+ 
+print ("initial_string : ", n, "\ncharacter_to_find : ", c) 
+res = None
+for i in range(0, len(n)): 
+	if n[i] == c: 
+		res = i + 1
+		break
+	
+if res == None: 
+	print ("No such charater available in string") 
+else: 
+	print ("Character {} is present at {}".format(c, str(res))) 

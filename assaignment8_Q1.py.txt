@@ -1,0 +1,10 @@
+print("ABCD",end="")
+print("EFGH",end="")
+print("IJKL",end="")
+print("MNOP",end="")
+print("QRST",end="")
+print("UNWX",end="")
+print("WZ..",end="")
+print("....",end="")
+
+

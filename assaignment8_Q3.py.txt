@@ -1,0 +1,7 @@
+n=input("enter the string : ")
+m=[]
+
+for i in n:
+    m.append(i)
+print(list(m))        
+        

@@ -1,0 +1,4 @@
+a=input("ur string please : ")
+
+for i in a:
+    print(i)
